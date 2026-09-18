@@ -166,3 +166,7 @@ Qwen-Image-Edit + ComfyUI로 자사 모자 5종 × 가상 모델 3명 = 15컷 �
 - AI 생성물 표기 의무 정리: https://bh-law.kr/ko/news/column/ai-content-labeling-obligation-guide
 - 생체정보 처리 시 주의사항: https://brunch.co.kr/@kakaoprivacy/61
 - RunPod GPU 가격: https://computeprices.com/providers/runpod
+
+---
+
+**후속 문서:** 범위가 "전속 AI 모델 기반 데일리 콘텐츠 생산"으로 확정된 뒤의 상세 설계는 [daily-content-pipeline.md](./daily-content-pipeline.md) 참조.
