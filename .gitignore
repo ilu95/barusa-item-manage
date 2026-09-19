@@ -1,0 +1,11 @@
+# 자격증명
+.env
+
+# 생성 결과물
+out/
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
